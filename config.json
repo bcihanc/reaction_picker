@@ -1,0 +1,58 @@
+{
+  "name": "ReactionIcons",
+  "css_prefix_text": "",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "4140c2533cfd111eb6ad40ba1baad471",
+      "css": "angry",
+      "code": 62806,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "d929a4fc4af1ef09d267a8b90394b725",
+      "css": "sad_tear",
+      "code": 62900,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "115e9b09390f232c636aff6c36bb6390",
+      "css": "smile_beam",
+      "code": 62904,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "e6a9eb0ba6565a6b642a84786f3b3c5e",
+      "css": "tired",
+      "code": 62920,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "327d581bb0a0e12740066fd217ff7b15",
+      "css": "kiss_wink_heart",
+      "code": 62872,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "c61093a83456490a2453d440b5ad5f20",
+      "css": "grin_beam_sweat",
+      "code": 62851,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "1752862256ca4188095a4f749cf081d0",
+      "css": "meh_rolling_eyes",
+      "code": 62885,
+      "src": "fontawesome5"
+    },
+    {
+      "uid": "554bfbe223ea13b14141da97db710d36",
+      "css": "grin_tongue_wink",
+      "code": 62859,
+      "src": "fontawesome5"
+    }
+  ]
+}
